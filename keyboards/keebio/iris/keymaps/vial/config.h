@@ -25,4 +25,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VIAL_UNLOCK_COMBO_ROWS {0,9}
 #define VIAL_UNLOCK_COMBO_COLS {0,5}
 
-#define DYNAMIC_KEYMAP_LAYER_COUNT 6
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+#define VIAL_KEY_OVERRIDE_ENTRIES 4
